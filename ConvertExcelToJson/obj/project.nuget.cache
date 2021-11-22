@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4YDf0q7Bdr2T2I9t8Q/4CX8hyAjurAzPXjQ7q4Z5YFzp1DTIBooxEpYuxU+PpGt3kjve3vrTrPtdIj6phldbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mborges\\source\\repos\\ConvertExcelToJson\\ConvertExcelToJson\\ConvertExcelToJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mborges\\.nuget\\packages\\convertcsvtojson\\1.0.0\\convertcsvtojson.1.0.0.nupkg.sha512",
+    "C:\\Users\\mborges\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

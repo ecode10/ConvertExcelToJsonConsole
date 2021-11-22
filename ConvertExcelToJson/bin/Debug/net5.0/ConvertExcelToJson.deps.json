@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConvertExcelToJson/1.0.0": {
+        "dependencies": {
+          "ConvertCsvToJson": "1.0.0"
+        },
+        "runtime": {
+          "ConvertExcelToJson.dll": {}
+        }
+      },
+      "ConvertCsvToJson/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/net5.0/ConvertCsvToJson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertExcelToJson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvertCsvToJson/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jHyiQzw0ksUsSzSRrQ8xOpKDdblSxhMuS1WvegVh2cNbDskd3TILjYtSqeZ+ExLQqh2DqHmIQPgBqKrwX+0Jnw==",
+      "path": "convertcsvtojson/1.0.0",
+      "hashPath": "convertcsvtojson.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}
